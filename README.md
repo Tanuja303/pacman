@@ -4,7 +4,7 @@
 2.  18PA1A05D2 - P.MAHA LAKSHMI
 # PACMAN GAME BY ML
  PLAY GAME BY YOUR VOICE
- Integrating javascript game with Machine Learning hii
+ Integrating javascript game with Machine Learning
  # RESOURCES
 # Test TeachableMachine on your device - https://teachablemachine.withgoogle.com/models/Y_i2PhkNc/
 1. if you speak left PACMAN will move in left direction and it collects coins in the left direction
